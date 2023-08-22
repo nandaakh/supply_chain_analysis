@@ -62,3 +62,5 @@ This dataset provides a comprehensive overview of a company's supply chain. By a
 #### **Role and Responsibility**
 
 My role in this project is as a Data Analyst, who is responsible for carrying out the following tasks, including data interpretation, data transformation, data cleaning, and conducting descriptive analysis and visualization to get the insights needed.
+
+**nb: Because I use the 'plotly' library for visualization and there is a possibility that the visualization may not appear when you open the notebook file, I hope you are willing to use [nbviewer](https://nbviewer.org/), then copy the URL of the notebook file and paste it in the nbviewer view. Thanks**
